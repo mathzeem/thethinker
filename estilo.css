@@ -66,6 +66,7 @@ nav{
 }
 article{
 	width:auto;
+	height:100%;
 	align-items:center;
 	border-top-style:groove;
 	border-width:2px;
