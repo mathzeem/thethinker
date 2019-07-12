@@ -125,7 +125,9 @@ footer{
 .social img{
 	width:15px;
 }
-
+#perfil {
+	height:300px;	
+}
 #perfil img{
 	width:150px;
 	display:block;
